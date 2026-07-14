@@ -16,7 +16,7 @@ window.dataCache = {
     }
 };
 
-const API_BASE = 'https://wyapi.hzxq.asia';
+const API_BASE = '这里输入你自己的部署好的';
 
 // 音质级别优先级（从高到低）
 const QUALITY_LEVELS = ['jymaster', 'sky', 'jyeffect', 'hires', 'lossless', 'exhigh', 'higher', 'standard'];

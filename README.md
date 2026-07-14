@@ -4,27 +4,27 @@
 
 ## 目录
 
-- [1\. 项目简介](https://www.doubao.cn)
+- [1\. 项目简介]
 
-- [2\. 架构概览](https://www.doubao.cn)
+- [2\. 架构概览]
 
-- [3\. 目录结构](https://www.doubao.cn)
+- [3\. 目录结构]
 
-- [4\. 前置准备](https://www.doubao.cn)
+- [4\. 前置准备]
 
-- [5\. 后端部署（API 服务）](https://www.doubao.cn)
+- [5\. 后端部署（API 服务）]
 
-- [6\. 前端部署与对接](https://www.doubao.cn)
+- [6\. 前端部署与对接]
 
-- [7\. 环境变量说明](https://www.doubao.cn)
+- [7\. 环境变量说明]
 
-- [8\. API 接口速查](https://www.doubao.cn)
+- [8\. API 接口速查]
 
-- [9\. 开发指南](https://www.doubao.cn)
+- [9\. 开发指南]
 
-- [10\. 开源贡献指南](https://www.doubao.cn)
+- [10\. 开源贡献指南]
 
-- [11\. 常见问题排查](https://www.doubao.cn)
+- [11\. 常见问题排查]
 
 ## 1\. 项目简介
 
